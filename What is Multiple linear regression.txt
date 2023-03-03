@@ -1,0 +1,11 @@
+Multiple linear regression is a statistical method used to model the relationship between a dependent variable and two or more independent variables. It is an extension of simple linear regression, which models the relationship between a dependent variable and a single independent variable.
+
+In multiple linear regression, the goal is to find a linear equation that best predicts the value of the dependent variable based on the values of the independent variables. This is done by estimating the coefficients of the independent variables in the linear equation using a least squares method.
+
+The equation for multiple linear regression can be written as:
+
+y = b0 + b1x1 + b2x2 + ... + bnxn + e
+
+where y is the dependent variable, x1, x2, ..., xn are the independent variables, b0, b1, b2, ..., bn are the coefficients of the independent variables, and e is the error term.
+
+Multiple linear regression can be used in many fields such as finance, economics, social sciences, and engineering to analyze the relationships between variables and make predictions about future outcomes.
